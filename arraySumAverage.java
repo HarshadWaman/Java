@@ -1,4 +1,4 @@
-// java program array sum and array average.
+// java program array sum and array average..
 import java.util.Scanner;
 
 public class ArraySumAverage{
